@@ -1,0 +1,123 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Joseph Scott – Proofreader</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      line-height: 1.6;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background: #333;
+      color: #fff;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+    }
+    nav {
+      background: #555;
+      text-align: center;
+    }
+    nav a {
+      color: #fff;
+      padding: 1rem;
+      display: inline-block;
+      text-decoration: none;
+    }
+    nav a:hover {
+      background: #444;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      padding: 2rem;
+      background: #fff;
+    }
+    h2 {
+      color: #444;
+    }
+    .portfolio-item {
+      margin-bottom: 1rem;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 1rem;
+    }
+    .testimonials {
+      background: #eee;
+      padding: 1rem;
+      margin: 2rem 0;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #333;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Joseph Scott</h1>
+    <p>Professional Proofreader | Clarity, Precision, Excellence</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#portfolio">Portfolio</a>
+    <a href="#testimonials">Testimonials</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <div class="container">
+
+    <section id="about">
+      <h2>About Me</h2>
+      <p>
+        I’m Joseph Scott, a dedicated proofreader with over five years of experience enhancing clarity, consistency, and correctness in written content. I’ve worked with publishers, tech companies, and creative agencies to deliver high-quality, error-free documents.
+      </p>
+    </section>
+
+    <section id="portfolio">
+      <h2>Portfolio</h2>
+      <div class="portfolio-item">
+        <h3>Technical White Paper – FinTech Solutions</h3>
+        <p>Edited for clarity, grammar, and formatting. <a href="#">View sample →</a></p>
+      </div>
+      <div class="portfolio-item">
+        <h3>Marketing Brochure – GreenTech Energy</h3>
+        <p>Proofread for brand consistency and audience tone. <a href="#">View sample →</a></p>
+      </div>
+      <div class="portfolio-item">
+        <h3>Website Copy – Health & Wellness Blog</h3>
+        <p>Edited blog posts and landing pages for SEO and readability. <a href="#">View sample →</a></p>
+      </div>
+    </section>
+
+    <section id="testimonials" class="testimonials">
+      <h2>What Clients Say</h2>
+      <p><strong>Emily R., Editor:</strong> “Joseph catches every detail. Our content has never been stronger.”</p>
+      <p><strong>Mark L., CEO:</strong> “He’s fast, professional, and thorough. Highly recommend!”</p>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:joseph.scott@email.com">joseph.scott@email.com</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/josephscott" target="_blank">linkedin.com/in/josephscott</a></p>
+    </section>
+
+  </div>
+
+  <footer>
+    <p>© 2025 Joseph Scott. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
